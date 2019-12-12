@@ -1,2 +1,2 @@
 # hello-world
-Testing repository for dockerr
+Testing repository for docker
